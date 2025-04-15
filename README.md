@@ -1,8 +1,10 @@
 📊 **Superstore Sales & Profit Analysis Dashboard**
+
 Welcome to the Superstore Sales & Profit Analysis Dashboard project!
 This repository showcases interactive dashboards created using Tableau, Power BI, and Microsoft Excel to analyze and visualize key business performance indicators from a retail dataset.
 
 **Project Overview**
+
 This project dives deep into the Sales and Profit data of a Superstore. The dashboards are designed to help stakeholders make data-driven decisions by identifying:
 High-performing categories, sub-categories, and regions
 
@@ -13,6 +15,7 @@ Sales and profit trends over time
 Customer segment behavior
 
  **Tools Used**
+ 
 **Tableau** – For creating rich, interactive dashboards
 
 **Power BI** – For business intelligence and deep visual analytics
@@ -20,6 +23,7 @@ Customer segment behavior
 **Microsoft Excel** – For raw data transformation and pivot analysis
 
 📈**Dashboard Insights**
+
 🔹 Profit Analysis Dashboard
 Total Profit: $290K
 
@@ -42,6 +46,7 @@ Best Segment: Consumer (134.12K Profit)
 Top Region: West (108.42K Profit)
 
 🔹 **Sales Analysis Dashboard**
+
 Total Sales: $2.30M
 
 Top Categories by Sales:
@@ -61,6 +66,7 @@ Highest Sales Region: West (725.46K Sales)
 Sales Trend: Consistent growth with a peak in late 2017
  
 **Key Business Questions Answered**
+
 Which product subcategories are generating losses despite high sales?
 
 How does profit vary across states and regions?
@@ -70,6 +76,7 @@ Which customer segment is the most profitable?
 Is there a seasonal trend in monthly sales or profit?
 
 **Skills Demonstrated**
+
 Data Cleaning & Preparation
 
 Time Series Analysis
@@ -85,9 +92,11 @@ DAX (in Power BI)
 Calculated Fields (in Tableau)
 
 **Dataset Source**
+
 Superstore Sample Dataset (commonly used in BI tools like Tableau and Power BI)
 
 **Contact**
+
 Sachitam Patel
 Email: sachitampatel177@gmail.com
 Phone: +91 8851734602
